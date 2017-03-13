@@ -5,7 +5,7 @@ title: 'Wikidébats, une encyclopédie de débats'
 tag:
   - Logiciels
 img: banniere-debapedia.jpg
-rep: Manu Reilhac
+rep: Manu
 repmail: contact@wikidebats.org
 socialmatter1: home
 sociallink1: 'http://wikidebats.org'
@@ -14,10 +14,10 @@ published: true
 active: true
 socialmatter2: file
 sociallink2: 'https://annuel.framapad.org/p/wikidebats_ODN'
-socialtext2: Pad bilan ODN 4
+socialtext2: Pad bilan ODN
 socialmatter3: twitter
 sociallink3: 'https://twitter.com/WikiDebats'
-socialtext3: Compte twitter
+socialtext3: Compte Twitter
 socialmatter4: facebook
 sociallink4: 'https://www.facebook.com/wikidebats/'
 socialtext4: Page Facebook
@@ -42,7 +42,7 @@ Samedi après-midi, un débat sera organisé avec [AgoraLabTV](agoralabtv) pour 
 
 Dimanche après-midi, une présentation du projet Wikidébats sera faite afin de décrire les motivations, les spécificités et les enjeux du projet.
 
-###### Les besoins
+##### Les besoins
 
 Avis aux âmes charitables pour :
 
