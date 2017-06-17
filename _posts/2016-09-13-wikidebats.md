@@ -5,7 +5,7 @@ title: 'Wikidébats, une encyclopédie de débats'
 tag:
   - Logiciels
 img: banniere-debapedia.jpg
-rep: Manu Reilhac
+rep: Manu
 repmail: contact@wikidebats.org
 socialmatter1: home
 sociallink1: 'http://wikidebats.org'
@@ -17,7 +17,7 @@ sociallink2: 'https://annuel.framapad.org/p/wikidebats_ODN'
 socialtext2: Pad bilan ODN 4
 socialmatter3: twitter
 sociallink3: 'https://twitter.com/WikiDebats'
-socialtext3: Compte twitter
+socialtext3: Compte Twitter
 socialmatter4: facebook
 sociallink4: 'https://www.facebook.com/wikidebats/'
 socialtext4: Page Facebook
@@ -50,7 +50,7 @@ Avis aux âmes charitables pour :
 
 - développer une fonction automatisant la création d’un tableau « pour »/« contre » reprenant le titre des arguments contenus dans le sommaire (compétences requises en HTML) ;
 
-- prendre en charge la communication du projet ;
+- créer une ou des vidéos de présentation du projet ;
 
 - fournir une salle pour un groupe d’étudiants stagiaires sur une durée de 7 à 10 jours (non consécutifs) ;
 
